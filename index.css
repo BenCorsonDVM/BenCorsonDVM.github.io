@@ -5,5 +5,8 @@ body {
     background-attachment: fixed;
     background-size: cover;
     margin: 0;
+}
+
+h1 {
     color: white;
 }
